@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be936025.css",
+    "main.js": "/static/js/main.ac66e07d.js",
+    "static/js/453.7f5cca45.chunk.js": "/static/js/453.7f5cca45.chunk.js",
+    "static/media/factory.jpg": "/static/media/factory.cde9653f310843fbf7a2.jpg",
+    "static/media/company_bg.jpg": "/static/media/company_bg.3b9f05a0930e0bce1cc6.jpg",
+    "static/media/map.jpg": "/static/media/map.0df1f81fdb6b3c46d9c1.jpg",
+    "static/media/main.jpg": "/static/media/main.ef1fefbf80402f9ad65e.jpg",
+    "static/media/machine.png": "/static/media/machine.cd61aa89eb5ffdeb654e.png",
+    "static/media/certificaton_credit_rating_confirmation.jpg": "/static/media/certificaton_credit_rating_confirmation.38d050423fc7c2ddb8ef.jpg",
+    "static/media/irehsystem_organization_table.png": "/static/media/irehsystem_organization_table.65f2c8dab450b5d49136.png",
+    "static/media/certification_recognition_letter_of_RnD_department.jpg": "/static/media/certification_recognition_letter_of_RnD_department.7b4de47101366c66667d.jpg",
+    "static/media/corporation_history.jpg": "/static/media/corporation_history.a9a2ef8e08237ff3e900.jpg",
+    "static/media/certificaton_confirmation_letter_of_venture_company.jpg": "/static/media/certificaton_confirmation_letter_of_venture_company.1d3180f492f8f373423e.jpg",
+    "static/media/certificaton_business_license.jpg": "/static/media/certificaton_business_license.66a5c616cdeb3c5a3eaf.jpg",
+    "static/media/company.jpg": "/static/media/company.88e92c9acb656670b646.jpg",
+    "static/media/overview.jpg": "/static/media/overview.da37a465f0d8c68fb887.jpg",
+    "static/media/patent_certificate2.jpg": "/static/media/patent_certificate2.a7ea5d395d4efb986f5d.jpg",
+    "static/media/certification_of_registration.jpg": "/static/media/certification_of_registration.05fa604b41c95543a072.jpg",
+    "static/media/certification_of_technical_achievement.jpg": "/static/media/certification_of_technical_achievement.dd402e1c15d2c4a78850.jpg",
+    "static/media/iraeSystem.png": "/static/media/iraeSystem.19d447c1c1a8c3a3df9e.png",
+    "static/media/certification_of_clean_business_establishment.jpg": "/static/media/certification_of_clean_business_establishment.66742c7200cf968ba1ea.jpg",
+    "static/media/patent_certificate1.jpg": "/static/media/patent_certificate1.e0ff2244f5c8704de32f.jpg",
+    "static/media/certificaton_main_mix.jpg": "/static/media/certificaton_main_mix.f848c74f00432f9c72e2.jpg",
+    "static/media/home.png": "/static/media/home.1a8c55dac4846306d6b4.png",
+    "static/media/sign.png": "/static/media/sign.6006f9dd8d8699acd665.png",
+    "index.html": "/index.html",
+    "main.be936025.css.map": "/static/css/main.be936025.css.map",
+    "main.ac66e07d.js.map": "/static/js/main.ac66e07d.js.map",
+    "453.7f5cca45.chunk.js.map": "/static/js/453.7f5cca45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be936025.css",
+    "static/js/main.ac66e07d.js"
+  ]
+}
