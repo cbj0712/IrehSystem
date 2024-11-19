@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf9422fe.css",
-    "main.js": "/static/js/main.9c1cdb3f.js",
+    "main.css": "/static/css/main.108ad485.css",
+    "main.js": "/static/js/main.6e195d07.js",
     "static/js/453.d9de8fd2.chunk.js": "/static/js/453.d9de8fd2.chunk.js",
     "static/media/company_bg.jpg": "/static/media/company_bg.3b9f05a0930e0bce1cc6.jpg",
     "static/media/map.jpg": "/static/media/map.0df1f81fdb6b3c46d9c1.jpg",
@@ -11,6 +11,7 @@
     "static/media/customers.png": "/static/media/customers.4390ee6a167f5ff9e5de.png",
     "static/media/installbase.png": "/static/media/installbase.394e4b2955a4b253b560.png",
     "static/media/quality_pyilsophy.png": "/static/media/quality_pyilsophy.d14bd84c4c9d5d955b6a.png",
+    "static/media/withdrawal_of_management.png": "/static/media/withdrawal_of_management.b3f141a8a01f17c43eb6.png",
     "static/media/automatic1.png": "/static/media/automatic1.5bcc10686a98d099a01f.png",
     "static/media/battery5.png": "/static/media/battery5.b94038cd8959ad76e3ec.png",
     "static/media/battery3.png": "/static/media/battery3.aa2f11b288bda82c6647.png",
@@ -67,12 +68,12 @@
     "static/media/sign.png": "/static/media/sign.6006f9dd8d8699acd665.png",
     "static/media/customerOrder12.jpg": "/static/media/customerOrder12.850a014436808153ec66.jpg",
     "index.html": "/index.html",
-    "main.bf9422fe.css.map": "/static/css/main.bf9422fe.css.map",
-    "main.9c1cdb3f.js.map": "/static/js/main.9c1cdb3f.js.map",
+    "main.108ad485.css.map": "/static/css/main.108ad485.css.map",
+    "main.6e195d07.js.map": "/static/js/main.6e195d07.js.map",
     "453.d9de8fd2.chunk.js.map": "/static/js/453.d9de8fd2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf9422fe.css",
-    "static/js/main.9c1cdb3f.js"
+    "static/css/main.108ad485.css",
+    "static/js/main.6e195d07.js"
   ]
 }
